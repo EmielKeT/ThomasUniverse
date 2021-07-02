@@ -23,14 +23,6 @@ ScriptsOnlyBuild:
     Unity.XR.Management.dll:
     - UnityEngine.XR.Management.XRGeneralSettings
     - UnityEngine.XR.Management.XRManagerSettings
-    UnityEditor.Graphs.dll:
-    - UnityEditor.Graphs.AnimationBlendTree.Graph
-    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
-    - UnityEditor.Graphs.AnimationStateMachine.Graph
-    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
-    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -74,21 +66,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1630}
+      Script: {instanceID: 1618}
     - Class: 114
-      Script: {instanceID: 2508}
+      Script: {instanceID: 2496}
     - Class: 114
-      Script: {instanceID: 3310}
+      Script: {instanceID: 3298}
     - Class: 114
-      Script: {instanceID: 3316}
+      Script: {instanceID: 3304}
     - Class: 114
-      Script: {instanceID: 3788}
+      Script: {instanceID: 3776}
     - Class: 114
-      Script: {instanceID: 4076}
+      Script: {instanceID: 4066}
     - Class: 114
-      Script: {instanceID: 4448}
+      Script: {instanceID: 4438}
     - Class: 114
-      Script: {instanceID: 4814}
+      Script: {instanceID: 4804}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -584,6 +576,12 @@ ScriptsOnlyBuild:
     className: ARBackgroundRendererFeature
   - hash:
       serializedVersion: 2
+      Hash: 1181a28b3ff0cc244daf4e812feb084e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TrackedImageDistanceTrigger
+  - hash:
+      serializedVersion: 2
       Hash: a5781dc71a671b1ad2b38de19f24b71f
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -804,12 +802,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 1181a28b3ff0cc244daf4e812feb084e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TrackedImageDistanceTrigger
   platform: 9
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
