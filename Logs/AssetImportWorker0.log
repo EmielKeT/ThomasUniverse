@@ -1,0 +1,156 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/emielketellapper/Documents/GitHub/ThomasUniverse
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60739
+Successfully changed project path to: /Users/emielketellapper/Documents/GitHub/ThomasUniverse
+/Users/emielketellapper/Documents/GitHub/ThomasUniverse
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 52.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/emielketellapper/Documents/GitHub/ThomasUniverse/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-02 17:15:53.485 Unity[37171:1448906] iMac preferred device: AMD Radeon R9 M395X (high power)
+2021-07-02 17:15:53.485 Unity[37171:1448906] Metal devices available: 1
+2021-07-02 17:15:53.485 Unity[37171:1448906] 0: AMD Radeon R9 M395X (high power)
+2021-07-02 17:15:53.486 Unity[37171:1448906] Using device AMD Radeon R9 M395X (high power)
+Initializing Metal device caps: AMD Radeon R9 M395X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56171
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000660 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 35.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.407 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001711 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 54.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.661 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.3 MB.
+System memory in use after: 152.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 2.201830 ms (FindLiveObjects: 0.222100 ms CreateObjectMapping: 0.082031 ms MarkObjects: 1.800887 ms  DeleteObjects: 0.096076 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Textures/NR2-Orakel.png
+  artifactKey: Guid(952e348930685419383e4084570fe0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/NR2-Orakel.png using Guid(952e348930685419383e4084570fe0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b16e22ec0127818d84db07c861103b3') in 1.137024 seconds
+  Import took 1.140110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Prefabs/Cube.prefab
+  artifactKey: Guid(36a4e10bcb0c246feae3bac150668a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cube.prefab using Guid(36a4e10bcb0c246feae3bac150668a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3bc34696a67e83bbc07fc7ad1dcaaf1') in 0.967303 seconds
+  Import took 0.970239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Prefabs/BookMock.prefab
+  artifactKey: Guid(a1ee0635bfbef416f842b9d73ae9345a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BookMock.prefab using Guid(a1ee0635bfbef416f842b9d73ae9345a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e406d8b71a3e357caea42619fd9a54e9') in 0.169784 seconds
+  Import took 0.172805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.762844 seconds.
+  path: Assets/Materials/BlackBook.mat
+  artifactKey: Guid(20f449c843f0849ca8e6d8016c83951b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BlackBook.mat using Guid(20f449c843f0849ca8e6d8016c83951b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb8072a50210c71745d2d7c8e004a4c') in 0.379000 seconds
+  Import took 0.382687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Materials/NR2-Orakel.mat
+  artifactKey: Guid(0d6c35d1e52ca45a1a4cf096077f1268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/NR2-Orakel.mat using Guid(0d6c35d1e52ca45a1a4cf096077f1268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9ff5a2b7cedb40ba5c15ec2952302b') in 0.069455 seconds
+  Import took 0.072330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Materials/WhiteBook.mat
+  artifactKey: Guid(c73f4f410f677458ebbcc0c84ff25fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WhiteBook.mat using Guid(c73f4f410f677458ebbcc0c84ff25fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec043df3674eaa21dc67114bc6bf03cd') in 0.008079 seconds
+  Import took 0.011180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Materials/NR-Orakel.mat
+  artifactKey: Guid(128815668e1754144882ceb27c41a89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/NR-Orakel.mat using Guid(128815668e1754144882ceb27c41a89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfdbf3f5cbc7324e9d7ce0181c05de5') in 0.024395 seconds
+  Import took 0.028236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002215 seconds.
+  path: Assets/Materials/Mask.mat
+  artifactKey: Guid(ccc479423e5f4491ca2affdb98b7e035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Mask.mat using Guid(ccc479423e5f4491ca2affdb98b7e035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080a20b4d6ace77a1e030e08a8e3dc4b') in 0.024511 seconds
+  Import took 0.030177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Materials/Smoke.mat
+  artifactKey: Guid(adf503ba8d5134a6eb953f455919561e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Smoke.mat using Guid(adf503ba8d5134a6eb953f455919561e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d9c18773e1d0fa35637847afebbcbc') in 0.011649 seconds
+  Import took 0.015923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.214667 seconds.
+  path: Assets/Animations/Controllers/BookMock.controller
+  artifactKey: Guid(e3b653637d7954cc4b0bd269ef281761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Controllers/BookMock.controller using Guid(e3b653637d7954cc4b0bd269ef281761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bee059eb66c83b200b9f304b281e68') in 0.183759 seconds
+  Import took 0.186940 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.2 MB.
+System memory in use after: 138.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 4.330919 ms (FindLiveObjects: 0.525129 ms CreateObjectMapping: 0.158609 ms MarkObjects: 3.582747 ms  DeleteObjects: 0.063534 ms)
+
