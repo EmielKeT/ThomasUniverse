@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637605892500000000
+      ticks: 637608366640000000
     m_Hash: 2406887866
   m_LockFileStatus:
     m_FilePath: /Users/emielketellapper/Documents/GitHub/ThomasUniverse/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637605892500000000
+      ticks: 637608366640000000
     m_Hash: 3957595534
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -3424,6 +3424,7 @@ m_PackageAssets:
         - 4.2.0-pre.7
         - 4.2.0-pre.8
         - 4.2.0-pre.9
+        - 4.2.0-pre.10
         compatible:
         - 4.1.7
         - 4.2.0-pre.2
@@ -3433,6 +3434,7 @@ m_PackageAssets:
         - 4.2.0-pre.7
         - 4.2.0-pre.8
         - 4.2.0-pre.9
+        - 4.2.0-pre.10
         verified: 4.1.7
       dependencies:
       - name: com.unity.subsystemregistration
